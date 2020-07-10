@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**chenzijia12300/chenzijia12300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 我在摸鱼
+- 🌱 我在打游戏
+- 👯 我想谈谈恋爱
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
